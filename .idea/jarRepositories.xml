@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central Repository" />
+      <option name="url" value="http://uk.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="experta-snapshots" />
+      <option name="name" value="experta-snapshots" />
+      <option name="url" value="https://nexus-tst.art.com/repository/maven-snapshots/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven.oracle.com" />
+      <option name="name" value="maven.oracle.com" />
+      <option name="url" value="https://maven.oracle.com" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="experta-oracle" />
+      <option name="name" value="Experta Maven Oracle" />
+      <option name="url" value="http://nexus-tst.art.com/repository/maven-oracle/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="experta-releases" />
+      <option name="name" value="Experta Releases" />
+      <option name="url" value="http://nexus-tst.art.com/repository/maven-releases/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central Repository" />
+      <option name="url" value="http://repo.maven.apache.org/maven2" />
+    </remote-repository>
+  </component>
+</project>
